@@ -1,2 +1,2 @@
 # fuzzy-enigma
-Just trying out CI/CD stuff with github actions
+Just trying out CI/CD stuff with Github Actions
